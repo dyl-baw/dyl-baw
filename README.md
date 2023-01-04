@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a fourth-term student in the Computer Systems Technology program at the British Columbia Institute of Technology. With a well-rounded skill set in web development, mobile development, and object-oriented and procedural programming, I am looking for an entry-level software development job upon graduation.<br>I am currently honing my skills in Python.
+I am a fourth-term student in the Computer Systems Technology program at the British Columbia Institute of Technology. With a well-rounded skill set in web development, mobile development, and object-oriented and procedural programming, I am looking for an entry-level software development job upon graduation.<br>I am currently working on honing my skills in Python.
 
 
 ## 🌐 Socials:
